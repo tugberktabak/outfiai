@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outfai Ai - Support</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f9f9f9; color: #333; }
+        h1 { color: #1C2526; }
+        h2 { color: #FDF5AA; }
+        p { max-width: 800px; }
+    </style>
+</head>
+<body>
+    <h1>Support</h1>
+    <p>Last Updated: September 23, 2025</p>
+
+    <h2>1. Getting Help</h2>
+    <p>Need assistance with Outfai Ai? We’re here to help! Whether it’s troubleshooting image generation or managing your credits, feel free to contact us.</p>
+
+    <h2>2. How It Works</h2>
+    <p>Upload your photo and a model photo to generate a styled image using Fal AI and Fashion API. The process is handled via n8n, and your photos are not stored. Credits (5, 20, or 50) unlock features, restorable via "Restore Purchase."</p>
+
+    <h2>3. Common Issues</h2>
+    <ul>
+        <li><strong>Image Not Generating</strong>: Ensure you have sufficient credits and a stable internet connection.</li>
+        <li><strong>Credit Issues</strong>: Use "Restore Purchase" to recover lost credits.</li>
+    </ul>
+
+    <h2>4. Contact Us</h2>
+    <p>For support, email us at <a href="mailto:tugberktabak@yahoo.com">tugberktabak@yahoo.com</a>. Please include details like your issue and user ID.</p>
+
+    <h2>5. Feedback</h2>
+    <p>We value your input! Share your suggestions to improve Outfai Ai.</p>
+</body>
+</html>
