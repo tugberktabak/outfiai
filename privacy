@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outfai Ai - Privacy Policy</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f9f9f9; color: #333; }
+        h1 { color: #1C2526; }
+        h2 { color: #FDF5AA; }
+        p { max-width: 800px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Last Updated: September 23, 2025</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>Outfai Ai allows you to upload your own photo and a model photo for generating styled images. We do not collect, store, or process any personal data beyond the session required for image generation.</p>
+
+    <h2>2. Data Usage</h2>
+    <p>Your uploaded photos are processed using Fal AI and Fashion API via n8n workflows. These photos are not saved or retained after the generation process is complete, ensuring your privacy.</p>
+
+    <h2>3. Third-Party Services</h2>
+    <p>We use third-party APIs (Fal AI, Fashion API) and n8n for processing. These services adhere to their own privacy policies, but we ensure no data is shared beyond the immediate generation task.</p>
+
+    <h2>4. Credits and Purchases</h2>
+    <p>Purchase data (e.g., 5, 20, or 50 credits) is handled through Apple’s In-App Purchase system. We do not store your payment information; this is managed by Apple.</p>
+
+    <h2>5. Your Rights</h2>
+    <p>You can restore your credits via the "Restore Purchase" feature. No personal data is linked to this process.</p>
+
+    <h2>6. Security</h2>
+    <p>We implement measures to protect your data during processing, but no method is 100% secure. Your photos are deleted immediately after use.</p>
+
+    <h2>7. Changes to Policy</h2>
+    <p>We may update this Privacy Policy. Continued use of Outfai Ai after updates indicates your acceptance.</p>
+
+    <h2>8. Contact</h2>
+    <p>For privacy concerns, reach out to us at <a href="mailto:tugberktabak@yahoo.com">tugberktabak@yahoo.com</a>.</p>
+</body>
+</html>
